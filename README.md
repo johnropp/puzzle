@@ -1,1 +1,3 @@
 # puzzle
+
+Solve a puzzle.
